@@ -23,3 +23,8 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# Clasp files
+.clasp.json
+# Optional: if you use clasp's file push/pull config
+.clasp-settings.json
+
